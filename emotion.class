@@ -11,20 +11,33 @@ enum class BasicEmotion {
 public class GFG { 
     public static int getEmotion(qiContext: QiContext) //Returns: {neutral, content, joyful, sad, angry}
     { 
-        humanAwareness = qiContext.humanAwareness
+        humanAwareness = qiContext.humanAwareness;
+        List<Human> humansAround = humanAwareness.getHumansAround();
 
-        if (humansAround.isNotEmpty()) {
-            // Update observed emotion.
-            val observedHuman: Human = humansAround[0]
-            observedEmotion = observedHuman.emotion
+        if (!humansAround.isEmpty()) 
+        {
+            // Update observed emotion.            
+            Human observedHuman = humansAround.get(0);
+            observedEmotion = observedHuman.getEmotion();
 
             // Get and store human excitement and pleasure.
-            excitement = observedEmotion.excitement
-            pleasure = observedEmotion.pleasure
+            excitement = observedEmotion.getExcitement();
+            pleasure = observedEmotion.getPleasure();
 
-            pleasure.POSITIVE -> if (excitement == ExcitementState.CALM) BasicEmotion.CONTENT else BasicEmotion.JOYFUL
-            pleasure.NEGATIVE -> if (excitement == ExcitementState.CALM) BasicEmotion.SAD else BasicEmotion.ANGRY
-            this.observedEmotion = observedEmotion
+            if (excitement == ExcitementState.UNKNOWN || pleasure == PleasureState.UNKNOWN) 
+            {
+                return BasicEmotion.UNKNOWN;
+            }
+
+            switch (pleasure) 
+            {
+                case POSITIVE:
+                    return (excitement == ExcitementState.CALM) ?  BasicEmotion.CONTENT : BasicEmotion.JOYFUL;
+                case NEGATIVE:
+                    return(excitement == ExcitementState.CALM) ? BasicEmotion.SAD : BasicEmotion.ANGRY;
+            }
+            
+            return BasicEmotion.NEUTRAL;
         }
         
     } 
