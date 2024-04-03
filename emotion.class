@@ -9,7 +9,7 @@ enum class BasicEmotion {
 }
 
 public class GFG { 
-    public static int getEmotion(qiContext: QiContext) //Returns: {neutral, content, joyful, sad, angry}
+    public static BasicEmotion getEmotion(qiContext: QiContext) //Returns: {neutral, content, joyful, sad, angry}
     { 
         humanAwareness = qiContext.humanAwareness;
         List<Human> humansAround = humanAwareness.getHumansAround();
