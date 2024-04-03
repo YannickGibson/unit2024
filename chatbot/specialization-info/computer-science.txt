@@ -1,0 +1,16 @@
+Teoretická informatika je založena na aplikaci matematických metod pro řešení praktických problémů z oblasti informatiky. Připraví vás jak do praxe, tak na akademickou kariéru. Znalosti, které zde získáte, nikdy nezestárnou. V této specializaci budete studovat algoritmy a teorii, které tvoří základní kameny moderních technologií. Mimo jiné vás seznámíme s principy implementace programovacích jazyků (např. tvorbou kompilátorů) nebo návrhem efektivních algoritmů. Seznámíte se i s opačnou stranou mince – hranicí řešitelnosti výpočetních problémů.
+
+Co se naučíte?
+Naučíme vás kriticky myslet nad problémy a navrhovat jejich efektivní řešení. Jako absolvent budete mít mimo jiné představu o hranici řešitelnosti výpočetních problémů, o tom jak fungují programovací jazyky a kde jsou jejich limity. Budete:
+
+- Analyzovat algoritmické problémy a posuzovat jejich náročnost
+- Navrhovat a implementovat efektivní algoritmy
+- Rozumět principům a implementacím vyšších programovacích jazyků
+
+Jaké bude vaše uplatnění?
+I když název specializace silně zavání teoretickou rovinou, jeho absolventi se v praxi rozhodně neztratí. Uplatní se jako velmi kvalitní programátoři, analytici nebo výzkumní pracovníci. Můžete se stát:
+
+- Analytikem a návrhářem řešení problémů ve vývojových týmech
+- Specialistou na výkonově kritické části kódu
+- Programátorem se znalostmi tvorby efektivních algoritmů
+- Specialistou na algoritmické úlohy v aplikačních oblastech

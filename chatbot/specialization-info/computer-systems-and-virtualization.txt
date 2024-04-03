@@ -1,0 +1,16 @@
+Počítačové systémy patří k nejsložitějším inženýrským dílům člověka a jejich velikost a výkonnost rostla zatím exponenciální rychlostí v souladu s Mooreovým zákonem. Absolventi specializace získají znalosti na úrovni architektů a správců počítačových systémů, sítí, serverů, datových úložišť a cloudových systémů a uplatní se na technologických, konzultantských i obchodních pozicích firem i organizací veřejné a státní správy.
+
+Co se naučíte?
+Specializace vychovává odborníky bakalářské úrovně pro navrhování architektur počítačových systémů, jejich konfigurování či administrování. A to za použití moderních virtualizačních technik a nástrojů pro zajištění trvalého provozu. Budete umět:
+
+- Rozumět  moderním architekturám počítačových systémů či serverů
+- Používat virtualizační techniky a nástroje 
+- Konfigurovat, škálovat a virtualizovat počítačové systémy 
+
+Jaké bude vaše uplatnění?
+Absolventi najdou uplatnění na technologických IT pozicích ve firmách a organizacích veřejné a státní správy, na pozicích konstruktérů a architektů ve firmách vyvíjejících a vyrábějících výpočetní systémy,  ale i jako konzultanti a obchodníci. Můžete se stát:
+
+- Administrátor počítačové a síťové infrastruktury
+- Systémový inženýr
+- Technologický konzultant
+- Architekt počítačového systému

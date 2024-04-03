@@ -1,0 +1,16 @@
+V překladu se pod softwarovým inženýrstvím skrývá umění kreslení krabiček a umění kódování, které jsou přímou cestou k tvorbě nového softwaru. Specializace se zaměřuje na metodiky a nástroje používané během všech fází života SW systémů. Naučíme vás programovat tak, aby dílo, které vytvoříte, bylo dlouhodobě funkční a efektivní. Vyzkoušíte si řízení SW projektů a práci v týmu.
+
+Co se naučíte?
+Naučíte se základní programovací jazyky, které také zvládnete prakticky použít. Jako ryba ve vodě se budete umět pohybovat také mezi databázemi. Budete umět:
+
+- Navrhovat softwarové systémy podle konkrétních požadavků
+- Pracovat v různých programovacích jazycích a s databázemi
+- Používat kolaborativní nástroje GIT, Track, JIRA, Redmine nebo Jenkins
+
+Jaké bude vaše uplatnění?
+Vytvářet něco nového, testovat něco hotového, učit něco, co jiní neumí – to je jen krátký výčet vašich širokých možností budoucího uplatnění. Můžete se stát:
+
+- Softwarovým vývojářem
+- Specialistou na uživatelské rozhraní nebo úložiště dat
+- Testerem, správcem konfigurací
+- Školitelem IT ve firmách nebo státní správě

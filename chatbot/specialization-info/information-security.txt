@@ -1,0 +1,16 @@
+Stanete se odborníkem na bezpečnost a budete vědět, jak provozovat a zlepšovat různé počítačové systémy s ohledem na jejich bezpečnost. Budete schopni vybrat vhodný a bezpečný hardware a software, integrovat jej do existujícího systému podle požadavků na bezpečný provoz. Budete spolehlivě analyzovat možná bezpečnostní rizika v ICT infrastruktuře a navrhovat řešení vzniklých problémů.
+
+Co se naučíte?
+Naučíme vás navrhovat, konfigurovat, sestavovat, administrovat, provozovat a inovovat bezpečnou výpočetní a síťovou infrastrukturu se znalostí hardware i software. Budete umět:
+
+- Hledat potenciální rizika
+- Zabezpečit počítačové systémy a sítě
+- Navrhovat a spravovat bezpečný SW a HW ICT systémů 
+
+Jaké bude vaše uplatnění?
+Člověk, který umí zajistit, že všechny informace zůstanou vždy v bezpečí, se rozhodně neztratí. Jako odborník, který má nejnovější poznatky z oblasti kybernetické bezpečnosti najdete uplatnění v každé firmě. A tím výčet vašich možností nekončí. Můžete se stát:
+
+- Bezpečnostním analytikem a architektem
+- Vývojářem bezpečného software a hardware
+- Forenzním analytikem
+- Bezpečnostním technikem v datových centrech a firmách poskytujících hosting výpočetní infrastruktury

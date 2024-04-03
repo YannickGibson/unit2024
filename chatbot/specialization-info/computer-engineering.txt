@@ -1,0 +1,16 @@
+Naučíme vás, jak ovládat roboty, programovat inteligentní domácnosti a vytvářet software pro internet věcí, který rok od roku zahrnuje stále více zařízení. Specializace se zaměřuje na vývoj hardwaru i softwaru zejména pro specializovaná vestavná zařízení. Zároveň se tu dozvíte, jak na návrh, programování a využití rekonfigurovatelných systémů (FPGA). Vše vás naučíme nejen teoreticky, ale i prakticky. Pracovat tu budete mimo jiné také s moderními humanoidními roboty.
+
+Co se naučíte?
+Budete umět vytvořit počítačový systém prakticky pro jakékoliv zařízení. Vývoj hardwaru i softwaru pro vestavné systémy nebo třeba drony pro vás bude hračkou. Budete umět:
+
+- Vyvíjet hardware a software zejména pro vestavné systémy
+- Pracovat s profesionálními návrhovými nástroji
+- Používat jednotlivé nástroje i v praxi
+
+Jaké bude vaše uplatnění?
+Zařízení s vlastním počítačovým systémem najdeme brzy ve všech oborech – od medicíny až po zemědělství. Možností vašeho uplatnění je díky tomu víc než dost. Můžete se stát:
+
+- Programátorem aplikací pro specializovaný hardware
+- Návrhářem hardwaru
+- Verifikačním inženýrem
+- Návrhář programovatelných a rekonfigurovatelných obvodů odolných proti poruchám i útokům
