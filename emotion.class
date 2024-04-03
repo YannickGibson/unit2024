@@ -1,0 +1,32 @@
+
+enum class BasicEmotion {
+    UNKNOWN(-1),
+    NEUTRAL,
+    CONTENT,
+    JOYFUL,
+    SAD,
+    ANGRY
+}
+
+public class GFG { 
+    public static int getEmotion(qiContext: QiContext) //Returns: {neutral, content, joyful, sad, angry}
+    { 
+        humanAwareness = qiContext.humanAwareness
+
+        if (humansAround.isNotEmpty()) {
+            // Update observed emotion.
+            val observedHuman: Human = humansAround[0]
+            observedEmotion = observedHuman.emotion
+
+            // Get and store human excitement and pleasure.
+            excitement = observedEmotion.excitement
+            pleasure = observedEmotion.pleasure
+
+            pleasure.POSITIVE -> if (excitement == ExcitementState.CALM) BasicEmotion.CONTENT else BasicEmotion.JOYFUL
+            pleasure.NEGATIVE -> if (excitement == ExcitementState.CALM) BasicEmotion.SAD else BasicEmotion.ANGRY
+            this.observedEmotion = observedEmotion
+        }
+        
+    } 
+}
+
