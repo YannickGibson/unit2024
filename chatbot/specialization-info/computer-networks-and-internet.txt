@@ -1,0 +1,16 @@
+V moderním světě 21. století je celosvětová počítačová síť Internet běžnou součástí života a lze ji právem označit za informační dálnici, po které jsou dennodenně dopravovány terabyty dat sloužící k různým činnostem. Specializace si klade za cíl poskytnout absolventovi veškeré informace k tomu, aby se stal profesionálem v počítačových sítích. Studenti získají řadu praktických i teoretických zkušeností s moderními technologiemi v naší špičkově vybavené síťové laboratoři a budou připraveni pro úspěšné uvedení do praxe.
+
+Co se naučíte?
+Získáte komplexní znalosti na úrovni architektů v oblasti návrhu a správy počítačových sítí, datových center či  IoT. Porozumíte detailně síťovým technologiím (optickým, metalickým bezdrátovým) běžně používaným v Internetu, programování síťových aplikací a protokolů a principů zabezpečení datových přenosů. Budete umět:
+
+- Navrhovat, spravovat, optimalizovat a zabezpečovat počítačové sítě
+- Programovat síťové aplikace
+- Orientovat se ve světě síťových služeb a IoT
+
+Jaké bude vaše uplatnění?
+Po úspěšném absolvování studia se stanete profesionály v oboru počítačových sítí a Internetu. Toto odvětví je na trhu práce velmi perspektivní a velmi žádané a absolvent nalezne uplatnění v každé menší či větší firmě. Můžete se stát:
+
+- Architektem a administrátorem počítačových sítí 
+- Specialistou na bezpečnost počítačových sítí
+- Konstruktérem IoT systémů
+- Tvůrcem síťových aplikací

@@ -1,0 +1,16 @@
+Specializace nabízí nevšední kombinaci kreativity a analytiky. Zaměřuje se jak na samotné vytváření multimediálního obsahu (2D, 3D), tak na programování grafických aplikací (OpenGL, Python) a zásuvných modulů do klíčových grafických programů. Seznámíte se s moderními technologiemi a způsobem zpracování multimediálních a grafických dat a získáte teoretické znalosti počítačové grafiky. Jako absolventi budete znát základy grafického návrhu, umět vytvářet i testovat uživatelské rozhraní.
+
+Co se naučíte?
+Pod vašima rukama, může vzniknout jakákoliv grafika prakticky od píky. Naučíte se programovat vlastní grafické aplikace i vytvářet 2D nebo 3D obsah. Získáte zkušenosti s velkými týmovými projekty. Budete umět:
+
+- Používat grafické metody a techniky
+- Ovládnout programovací jazyky vhodné pro tvorbu grafických aplikací
+- Zpracovávat multimediální data
+
+Jaké bude vaše uplatnění?
+Jako absolventi budete schopni navrhovat a vytvářet či rozšiřovat grafické aplikace a podrobit jejich uživatelské rozhraní vhodným uživatelským testům. Najdete uplatnění v oblasti počítačové grafiky a budete znát základní techniky modifikace 2D a 3D obsahu. Uplatní se u firem vyvíjející aplikace s uživatelským rozhraním, u výrobců počítačových her nebo ve filmovém průmyslu. Můžete se stát:
+
+- Softwarovým specialistou na počítačovou grafiku
+- Návrhářem uživatelského rozhraní v aplikacích
+- Specialistou na práci s multimediálním materiálem
+- Programátorem grafických aplikací včetně virtuální a rozšířené reality

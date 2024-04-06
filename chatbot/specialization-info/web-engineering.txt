@@ -1,0 +1,16 @@
+Užitečné, zábavné nebo produktivitu zvyšující aplikace, vychytané webovky s dechberoucími efekty a mnohé další webové systémy budete jako absolventi této specializace zvládat levou zadní. Jedním z hlavních cílů výuky je poskytnout vám důležité znalosti pro vývoj moderních aplikací založených na webových technologiích s využitím nových přístupů. Naučíme vás pracovat s moderními technologiemi, které umožňují efektivně ukládat a indexovat velké množství dat. Webové systémy a aplikace budete umět nejen vytvářet, ale také testovat, a vylepšovat tak vše do podoby user-friendly prostředí.
+
+Co se naučíte?
+Budete znát specifické architektury a technologie z oblasti webu. Základní ani dynamické programovací jazyky pro vás nebudou neznámou šifrou. Budete umět:
+
+- Tvořit webové aplikace na straně klienta i serveru
+- Znát vývojový cyklus aplikací, který zahrnuje analýzu, návrh, implementaci a testování
+- Rozumět algoritmům pro zajištění spolehlivosti aplikací a škálovatelnosti systémů
+
+Jaké bude vaše uplatnění?
+Můžete programovat weby a aplikace podle zadání nebo si vytvořit svůj vlastní projekt. Příležitostí k uplatnění budete mít spoustu. Můžete se stát:
+
+- Programátorem webových nebo mobilních aplikací
+- Inženýrem webových aplikací
+- Architektem webových aplikací
+- Specialistou na webové systémy a služby
