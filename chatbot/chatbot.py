@@ -7,11 +7,12 @@ def print_and_read(path: pathlib.Path):
     print(f"gonna read {str(path)}")
     return path.read_text(encoding="utf-8")
 
-SYSMSG = print_and_read(pathlib.Path("./sysmsg.txt"))
+PARENT_FOLDER_PATH = pathlib.Path(__file__).parent
+SYSMSG = print_and_read(PARENT_FOLDER_PATH / pathlib.Path("sysmsg.txt"))
 
 SPECIALIZATION_INFOS = {
     fpath.name[:-4]: print_and_read(fpath)
-    for fpath in pathlib.Path("./specialization-info").iterdir()
+    for fpath in (PARENT_FOLDER_PATH / pathlib.Path("./specialization-info")).iterdir()
     if fpath.is_file() and fpath.name.endswith(".txt")
 }
 
